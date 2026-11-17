@@ -1,0 +1,36 @@
+NetRouter Freeware License
+
+Copyright (c) 2026 the NetRouter author. All rights reserved.
+
+1. Grant. You may download, install and use the NetRouter installer and
+   application (the "Software") free of charge, for personal or commercial
+   purposes, on any number of computers.
+
+2. Redistribution. You may share the unmodified installer, free of charge,
+   provided you keep it intact and credit this repository as the source.
+   You may not sell the Software or bundle it in a paid product without
+   written permission.
+
+3. Restrictions. You may not modify the Software, remove or alter its
+   notices, or reverse engineer, decompile or disassemble it, except to the
+   extent that applicable law expressly allows this despite this restriction.
+
+4. Source code. The source code is not published and no rights to it are
+   granted. Earlier versions of the source that were published under the MIT
+   license remain available under that license for those versions only.
+
+5. Third-party components. The Software includes third-party open source
+   components (for example Electron and Chromium) that remain under their own
+   licenses; their notices are included with the installed application. The
+   Software does not include ForceBindIP, which is a separate product by R1CH
+   obtained by the user from its official site under its own terms.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND. The Software closes programs on request, changes how programs
+   connect to networks, and can add temporary network routes. TO THE MAXIMUM
+   EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY DAMAGE, DATA LOSS,
+   ACCOUNT ACTION (INCLUDING GAME BANS) OR OTHER CLAIM ARISING FROM THE USE OF
+   THE SOFTWARE. You use it at your own risk and must not use it where it
+   violates the terms of another program or service.
+
+7. Termination. These rights end automatically if you breach this license.
